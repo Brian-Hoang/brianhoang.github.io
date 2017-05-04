@@ -119,6 +119,10 @@ h4.agile{
 	color:#4867aa;
 	border: 2px solid #4867aa;
 }
+.b-part3 .fa-twitter:hover{
+	color:#00aced;
+	border: 2px solid #00aced;
+}
 .b-part3 .fa-linkedin:hover{
 	color:#0076b4;
 	border: 2px solid #0076b4;
@@ -139,7 +143,7 @@ h4.agile{
 	color:#36465d;
 	border: 2px solid #36465d;
 }
-.b-part3 .fa-facebook,.b-part3 .fa-linkedin,.b-part3 .fa-pinterest{
+.b-part3 .fa-facebook,.b-part3 .fa-linkedin,.b-part3 .fa-twitter{
 	margin-bottom:20px
 }
 .b-part4{
